@@ -14,6 +14,11 @@ Display: 1.28" Round SPI TFT (GC9A01)<br />
 
 Design Tools: Altium Designer (PCB), VS Code/nRF Connect SDK (Firmware), Solidworks (Chassis)<br />
 
+## Schematics
+<img src="https://github.com/choicebuilds/UbiWatch/blob/main/pictures/MCU-schematic.png" alt="MCU Schematic" width="1000"/>
+<img src="https://github.com/choicebuilds/UbiWatch/blob/main/pictures/power-schematic.png" alt="Power Schematic" width="1000"/>
+<img src="https://github.com/choicebuilds/UbiWatch/blob/main/pictures/peripherals-schematic.png" alt="Peripherals Schematic" width="1000"/>
+
 ## Features
 
 <img src="https://github.com/choicebuilds/JWatch/blob/main/pictures/block-diagram-v1.png" alt="Simple Block Diagram" width="600"/>
