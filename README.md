@@ -6,23 +6,11 @@
 
 MCU: NORA-B106 (nRF5340) - Dual-core ARM Cortex-M33<br />
 
-Sensors: MAX30102 + MAX32664 (HR/SpO2), BMI270 (IMU)<br />
+Power: MCP73832 (Charger), MAX17055 Fuel Gauge, TPS7A02 (Dual-rail LDOs)<br />
 
-Power: MAX17055 Fuel Gauge, 1.8V/3.3V dual-rail LDOs<br />
-
-Display: 1.28" Round SPI TFT (GC9A01)<br />
-
-Design Tools: Altium Designer (PCB), VS Code/nRF Connect SDK (Firmware), Solidworks (Chassis)<br />
+Peripherals: MAX30102 (Heartrate Sensor), BMI270 (IMU), DRV2605L (Haptics Driver), GC9A01 (1.28" Round SPI TFT)<br />
 
 ## Schematics
 <img src="https://github.com/choicebuilds/UbiWatch/blob/main/pictures/MCU-schematic.png" alt="MCU Schematic" width="1000"/>
 <img src="https://github.com/choicebuilds/UbiWatch/blob/main/pictures/power-schematic.png" alt="Power Schematic" width="1000"/>
 <img src="https://github.com/choicebuilds/UbiWatch/blob/main/pictures/peripherals-schematic.png" alt="Peripherals Schematic" width="1000"/>
-
-## Features
-
-<img src="https://github.com/choicebuilds/JWatch/blob/main/pictures/block-diagram-v1.png" alt="Simple Block Diagram" width="600"/>
-
-[BW]: https://github.com/choicebuilds/BumWatch
-
-Changealog:
